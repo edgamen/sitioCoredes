@@ -1,0 +1,28 @@
+https://www.youtube.com
+https://www.facebook.com
+https://www.twitter.com
+https://www.linkedin.com
+Correo electrónico
+informacion@coredes.co
+Telefono
++573118168783
+Bogota DC - Colombia
+Diagonal 41 Sur # 34A -41 
+Horario
+8:00 a.m. a 12 m - 1:00 p.m. a 5:00 p.m.
+
+
+
+https://api.whatsapp.com/send?phone=[ind][num]&text=[text]
+https://api.whatsapp.com/send?phone=573118168783&text=Hola, tengo una pregunta para Coredes SAS.
+https://web.whatsapp.com/send?phone=[num]
+
+whatsapp://send?phone=573118168783&text=Hola%2C%20Tengo%20una%20pregunta%20para%20Coredes.
+
+https://wa.me/573118168783?text=Hola%2C%20Tengo%20una%20pregunta%20para%20Coredes.
+
+<a href="tel:5555555555">Call Us</a>
+<a href="tel:+573118168783">Call Us</a>
+
+
+mailto:tudireccion@email.com
